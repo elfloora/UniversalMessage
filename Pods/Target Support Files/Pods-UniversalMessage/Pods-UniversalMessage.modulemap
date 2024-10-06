@@ -1,0 +1,6 @@
+framework module Pods_UniversalMessage {
+  umbrella header "Pods-UniversalMessage-umbrella.h"
+
+  export *
+  module * { export * }
+}
